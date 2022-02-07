@@ -1,0 +1,131 @@
+{
+    "m_SelectedDeviceId": "1WMHH833Z51211",
+    "m_SelectedPackage": {
+        "deviceId": "1WMHH833Z51211",
+        "name": "com.DefaultCompany.RuNYrTechAppLab",
+        "processId": 13693,
+        "exited": false
+    },
+    "m_SelectedPriority": 0,
+    "m_KnownPackagesForSerialization": [
+        {
+            "deviceId": "1WMHH833Z51211",
+            "name": "com.oculus.shellenv",
+            "processId": 3241,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH833Z51211",
+            "name": "com.DefaultCompany.RuNYrTechAppLab",
+            "processId": 9760,
+            "exited": true
+        },
+        {
+            "deviceId": "1WMHH833Z51211",
+            "name": "com.DefaultCompany.RuNYrTechAppLab",
+            "processId": 10146,
+            "exited": true
+        },
+        {
+            "deviceId": "1WMHH833Z51211",
+            "name": "com.DefaultCompany.RuNYrTechAppLab",
+            "processId": 10563,
+            "exited": true
+        },
+        {
+            "deviceId": "1WMHH833Z51211",
+            "name": "com.DefaultCompany.RuNYrTechAppLab",
+            "processId": 10849,
+            "exited": true
+        },
+        {
+            "deviceId": "1WMHH833Z51211",
+            "name": "com.DefaultCompany.RuNYrTechAppLab",
+            "processId": 11242,
+            "exited": true
+        },
+        {
+            "deviceId": "1WMHH833Z51211",
+            "name": "com.oculus.os.vrusb",
+            "processId": 11455,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH833Z51211",
+            "name": "com.DefaultCompany.RuNYrTechAppLab",
+            "processId": 12800,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH833Z51211",
+            "name": "com.DefaultCompany.RuNYrTechAppLab",
+            "processId": 13131,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH833Z51211",
+            "name": "com.DefaultCompany.RuNYrTechAppLab",
+            "processId": 13426,
+            "exited": false
+        },
+        {
+            "deviceId": "1WMHH833Z51211",
+            "name": "com.DefaultCompany.RuNYrTechAppLab",
+            "processId": 13693,
+            "exited": false
+        }
+    ],
+    "m_Tags": {
+        "m_Entries": [
+            {
+                "m_Name": "Filter by all listed tags",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "No Filter",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Tag Control...",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "",
+                "m_Selected": false
+            },
+            {
+                "m_Name": "Unity",
+                "m_Selected": true
+            },
+            {
+                "m_Name": "CRASH",
+                "m_Selected": false
+            }
+        ]
+    },
+    "m_MemoryViewerState": {
+        "MemoryWindowHeight": 300.0,
+        "MemoryWindowWidth": 170.0,
+        "MemoryTypeEnabled": [
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true,
+            true
+        ],
+        "MemoryGroup": 2,
+        "Behavior": 0
+    },
+    "m_Filter": "",
+    "m_FilterIsRegularExpression": false,
+    "m_SymbolPaths": []
+}

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 0
+    path: Assets/Samples/WebXR Interactions/0.12.0-preview/Sample Scene/Scenes/Desert.unity
+    guid: 85380d4847db7b74a850284461349c36
+  - enabled: 0
+    path: Assets/Scenes/Test Scene.unity
+    guid: d10b88248bdeff4458c038c6fa87e31b
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 887dbc9d6902a024aa50f65e692e0e64, type: 2}
+    WebXR.Settings: {fileID: 11400000, guid: 8cb4e088a29c6604ca3c4ea43d2d081b, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 5891ae283c628414495ee895520b3cb8, type: 2}

@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b5a45a78cf86b3a4e9bc026e4e6d6817, type: 3}
+  m_Name: Simple_Head
+  m_EditorClassIdentifier: 
+  gameModeName: Simple_Head
+  displayUI: {fileID: 5602506584426148665, guid: 829af651c6fdb574fac05482848b95c7, type: 3}
+  initialSpeed: 0.1
+  spawnRate:
+    min: 0.6
+    max: 1
+  EasyMultipliers:
+    speed: 0.7
+    spawnRadius: 0.7
+    spawnRate: 0.7
+  MediumMulipliers:
+    speed: 1
+    spawnRadius: 1
+    spawnRate: 1
+  HardMultipliers:
+    speed: 1.2
+    spawnRadius: 1.2
+    spawnRate: 1.2
+  ExpertMultipliers:
+    speed: 1.5
+    spawnRadius: 1.5
+    spawnRate: 1.5
+  targets:
+  - targets:
+    - {fileID: 8416912729123132123, guid: 1e2013f73867c2840be04b832b08f932, type: 3}
+    value:
+      min: 1
+      max: 1
+    allowedPart: 1
+    action: 1
+    spawnAreas:
+    - {fileID: 11400000, guid: b6904aefa1fad0b48ba01887d961d297, type: 2}

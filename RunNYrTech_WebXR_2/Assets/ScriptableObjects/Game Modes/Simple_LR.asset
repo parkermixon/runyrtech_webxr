@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b5a45a78cf86b3a4e9bc026e4e6d6817, type: 3}
+  m_Name: Simple_LR
+  m_EditorClassIdentifier: 
+  gameModeName: Simple_LR
+  displayUI: {fileID: 5602506584426148665, guid: 829af651c6fdb574fac05482848b95c7, type: 3}
+  initialSpeed: 0.1
+  spawnRate:
+    min: 0.4
+    max: 2
+  EasyMultipliers:
+    speed: 0.7
+    spawnRadius: 0.7
+    spawnRate: 0.7
+  MediumMulipliers:
+    speed: 1
+    spawnRadius: 1
+    spawnRate: 1
+  HardMultipliers:
+    speed: 1.2
+    spawnRadius: 1.2
+    spawnRate: 1.2
+  ExpertMultipliers:
+    speed: 1.5
+    spawnRadius: 1.5
+    spawnRate: 1.5
+  targets:
+  - targets:
+    - {fileID: 930780637247128501, guid: 8203feedffd06af46b826279d8f06d92, type: 3}
+    value:
+      min: 1
+      max: 1
+    allowedPart: 2
+    action: 1
+    spawnAreas:
+    - {fileID: 11400000, guid: 7bd64ff9b6d379148af2054a5a4d2bb7, type: 2}
+  - targets:
+    - {fileID: 6379882395970303570, guid: 6439299d389d235479e82e0eb1da9dcb, type: 3}
+    value:
+      min: 1
+      max: 1
+    allowedPart: 4
+    action: 1
+    spawnAreas:
+    - {fileID: 11400000, guid: 7bd64ff9b6d379148af2054a5a4d2bb7, type: 2}
